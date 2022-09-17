@@ -1,7 +1,8 @@
 
 # Pokedéx   🐣
 
-Este é meu primeiro projeto utilizando JavaScript e consumindo uma API, trata-se de uma espécie de enciclopédia de pokémons, nela você consegue realizar a pesquisa por número ou nome do pokémon. 🐝
+Este é meu primeiro projeto utilizando JavaScript e consumindo uma API, trata-se de uma espécie de enciclopédia de pokémons, 
+nela você consegue realizar a pesquisa por número ou nome do pokémon. 🐝
 
 
 
