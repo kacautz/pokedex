@@ -19,7 +19,7 @@ Por ser meu primeiro projeto com esta linguagem, me deparei com algumas dificuld
 Entretanto, sei que ainda há um mundo de possibilidades dentro do JavaScript e espero conseguir explorar ao máximo tudo
 o que essa linguagem proporciona.
 
-No mais, realizei esse projeto como um desafio pessoal, afim de reforçar meus conhecimentos adquiridos em HTML e CSS, e aplicar
+No mais, realizei esse projeto como um desafio pessoal, afim de reforçar os conhecimentos que pude adquirir em HTML e CSS, e aplicar
 o que pude aprender de JavaScript. Este projeto me fez entender as diversas possibilidades que a tecnologia pode proporcionar e me deixou ainda mais
 animada a continuar aprendendo e evoluindo. 💻
 
